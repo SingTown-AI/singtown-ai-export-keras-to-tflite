@@ -1,0 +1,14 @@
+{
+  "id": "1",
+  "cmd": [
+      "python",
+      "-u",
+      "export.py",
+      "--model",
+      "resource/best.keras",
+      "--dataset",
+      "resource/dataset",
+      "--output",
+      "trained.tflite"
+  ]
+}
