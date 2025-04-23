@@ -1,5 +1,5 @@
 {
   "resource_path": "resource",
   "metrics_path": "metrics.csv",
-  "result_path": "trained.tflite"
+  "result_path": "output.zip"
 }

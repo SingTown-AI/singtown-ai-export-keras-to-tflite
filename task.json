@@ -6,9 +6,12 @@
       "export.py",
       "--model",
       "resource/best.keras",
+      "--labels",
+      "cat",
+      "dog",
       "--dataset",
       "resource/dataset",
       "--output",
-      "trained.tflite"
+      "output.zip"
   ]
 }

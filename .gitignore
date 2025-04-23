@@ -1,3 +1,5 @@
 *.csv
+*.zip
+labels.txt
 trained.tflite
 .vscode
